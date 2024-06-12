@@ -8,4 +8,3 @@ const porta = 3306;
 app.listen(porta, () => {
    console.log(`Servidor iniciado na porta ${porta}`);
 });
-]
